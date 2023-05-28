@@ -16,8 +16,6 @@ print(f'{num} x 10 = {num*10}')
 
 # Ainda estamos no início do curso, mas claro que a melhor maneira seria usar uma estrutura de repetição, como por exemplo:
 
-# num = int(input("Insira um número inteiro: "))
-# contador = 1
-# for i in range (10):
-#     print(f"{num} x {contador} = {num*contador}")
-#     contador += 1
+# numero = int(input("Insira um número: "))
+# for x in range(1, 11):
+#     print(f"{numero} x {x} = {numero*x}")
